@@ -1755,7 +1755,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d1e704;
+  background: #6cc45b;
 }
 .feed-link,
 .chat {
@@ -3008,4 +3008,14 @@ body {
   .pagination {
     margin: 8px 0 0;
   }
+}
+body {
+  background: url("/images/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.site-meta {
+  background: $brown;
 }
