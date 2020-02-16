@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://elijiang.me/"/>
-  <updated>2020-02-16T15:13:41.816Z</updated>
+  <updated>2020-02-16T15:19:11.697Z</updated>
   <id>http://elijiang.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://elijiang.me/2020/02/16/Let-s-see-how-long-you-can-insist-this-time/"/>
     <id>http://elijiang.me/2020/02/16/Let-s-see-how-long-you-can-insist-this-time/</id>
     <published>2020-02-16T15:05:44.000Z</published>
-    <updated>2020-02-16T15:13:41.816Z</updated>
+    <updated>2020-02-16T15:19:11.697Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,12 @@
     
     </summary>
     
+      <category term="随感" scheme="http://elijiang.me/categories/%E9%9A%8F%E6%84%9F/"/>
     
-      <category term="随感 日记" scheme="http://elijiang.me/tags/%E9%9A%8F%E6%84%9F-%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="成长" scheme="http://elijiang.me/tags/%E6%88%90%E9%95%BF/"/>
+    
+      <category term="压力" scheme="http://elijiang.me/tags/%E5%8E%8B%E5%8A%9B/"/>
     
   </entry>
   
